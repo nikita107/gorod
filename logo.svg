@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1696" height="1133" viewBox="0 0 1696 1133">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        stroke: #000;
+        stroke-width: 37.43px;
+      }
+    </style>
+  </defs>
+  <rect id="Прямоугольник_1" data-name="Прямоугольник 1" class="cls-1" x="402" y="213" width="900" height="448" rx="100" ry="100"/>
+  <rect id="Прямоугольник_1-2" data-name="Прямоугольник 1" class="cls-1" x="499" y="135" width="706" height="351" rx="100" ry="100"/>
+  <circle id="Эллипс_1" data-name="Эллипс 1" class="cls-2" cx="852" cy="383" r="311"/>
+</svg>
